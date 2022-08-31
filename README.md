@@ -1,3 +1,8 @@
+# Preview
+
+<img src="https://github.com/aayushjha5/loginformpage/blob/master/preview.png" width=920 height=480>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
